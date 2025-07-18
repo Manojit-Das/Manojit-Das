@@ -72,8 +72,7 @@
 ### 📫 Let's Connect
 
 - 📧 [Email](mailto:manojitdas55@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/manojitdas55) *(optional - create one if not already)*
-- 🗂️ [Resume](https://your-resume-link.com) *(upload a PDF resume in a public repo)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/manojitdas55/)
 
 ---
 
