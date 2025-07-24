@@ -55,7 +55,8 @@
 |----------------------|--------------|
 | **WB Election Monitoring** | ASP.NET, Angular, RDLC, SQL |
 | **Election Grievance Management System** | ASP.NET, Angular,.NET Web API, RDLC, SQL |
-| **NDITA Accounts, Mutation, Property Tax** | .NET Core, Angular, SQL Server |
+| **NDITA Kolkata Accounts, Mutation, Property Tax** | .NET Core, Angular, SQL Server |
+| **BMC Kolkata Property Tax** | ASP.NET, Web Forms, Angular Js, SQL Server, ADO.NET, WCF |
 | **e-Vidhan (Arunachal Pradesh Assembly)** | Web Forms, RDLC Reports, ADO.NET |
 
 ---
