@@ -53,8 +53,8 @@
 
 | 🏛 Government Portals | 🛠️ Tech Stack |
 |----------------------|--------------|
-| **WB Election Monitoring** ([portal.wbsec.org](https://portal.wbsec.org)) | ASP.NET, Angular, SQL |
-| **Grievance Management System** | Angular, Web API, RDLC |
+| **WB Election Monitoring** | ASP.NET, Angular, RDLC, SQL |
+| **Election Grievance Management System** | ASP.NET, Angular,.NET Web API, RDLC, SQL |
 | **NDITA Accounts, Mutation, Property Tax** | .NET Core, Angular, SQL Server |
 | **e-Vidhan (Arunachal Pradesh Assembly)** | Web Forms, RDLC Reports, ADO.NET |
 
@@ -62,6 +62,7 @@
 
 ### 📜 Certifications
 
+- ✅ [Software Engineer Certificate – HackerRank](https://www.hackerrank.com/certificates/dab0cc879c69)
 - ✅ [Angular (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/a88685dec05e)
 - ✅ [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/e1682a0e1f61)
 - ✅ [SQL (Advanced) – HackerRank](https://www.hackerrank.com/certificates/6cb44c7ac1a9)
